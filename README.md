@@ -1,16 +1,14 @@
 ## Olá! Eu sou a Carol! 👩‍💻 
   
 <div style="display: center">
-  <a href="https://github.com/izabelasoares">
+  <a href="https://github.com/carolinarussi">
   <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api?username=carolinarussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarussi&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div align= "center"><br>
   <img align="center" alt="Carol-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Carol-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carol-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
