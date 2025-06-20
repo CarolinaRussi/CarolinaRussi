@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Carol! 👩‍💻 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CarolinaRussi?cardType=level&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CarolinaRussi?cardType=level&theme=vue-dark&preferLogin=false&Border=2F2678)](https://git.io/awesome-stats-card)
 ![carolinarussi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarussi&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 <div align= "center"><br>
