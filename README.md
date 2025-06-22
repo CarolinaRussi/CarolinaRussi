@@ -3,7 +3,6 @@
 ![carolinarussi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarussi&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 <div align= "center"><br>
-  <img align="center" alt="Carol-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carol-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
